@@ -1,0 +1,21 @@
+.loginBlock {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 80%;
+}
+
+.loginBox {
+  width: 50rem;
+}
+
+.errMsg {
+  background-color: brown;
+}
